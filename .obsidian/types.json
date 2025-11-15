@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "course": "multitext",
+    "surface": "multitext",
+    "pick": "text",
+    "class": "multitext",
+    "win_odds": "number",
+    "distance": "multitext",
+    "track condition": "multitext"
+  }
+}
