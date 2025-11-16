@@ -3,10 +3,13 @@ views:
     name: Table
     filters:
       and:
-        - file.folder == "DB"
+        - file.folder == "reces"
     order:
       - file.name
       - finish_pos
       - win_odds
+      - course
       - distance
       - surface
+      - track condition
+    sort: []
