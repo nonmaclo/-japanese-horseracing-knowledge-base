@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3f8c2892ce40e42",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "DB view.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "DB view"
-            }
-          },
-          {
             "id": "c52faca1cefbc408",
             "type": "leaf",
             "state": {
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB view.base",
+                "file": "README_JP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DB view"
+              "title": "Backlinks for README_JP"
             }
           },
           {
@@ -126,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB view.base",
+                "file": "README_JP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DB view"
+              "title": "Outgoing links from README_JP"
             }
           },
           {
@@ -155,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB view.base",
+                "file": "README_JP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DB view"
+              "title": "Outline of README_JP"
             }
           }
         ]
@@ -182,13 +169,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "b3f8c2892ce40e42",
+  "active": "1370cf6be0086480",
   "lastOpenFiles": [
-    "reces/2025-11-15-F-09.md",
+    "README.md",
+    "reces/テスト.md",
+    "reces/2025-11-16.md",
     "DB view.base",
+    "reces/2025-11-15-F-09.md",
     "reces/2025-11-15-K-11.md",
     "reces/2025-11-15-T-11.md",
-    "README.md",
     "README_JP.md",
     "jockeys",
     "Templates/keibatemplate.md",

@@ -107,24 +107,3 @@ Pull requests and issue discussions are welcome — especially regarding:
 ## **License**
 
   MIT License — use freely, build boldly.
-
-### Track Condition Taxonomy (Japan Racing)
-
-We adopt a dual-axis structure:
-
-- **Surface type (Turf / Dirt)**
-- **Track condition (Surface-dependent naming)**
-
-| JRA Condition | Turf Naming | Dirt Naming |
-|---|---|---|
-| 良 | Firm | Fast |
-| 稍重 | Good (slightly soft) | Good (slightly muddy) |
-| 重 | Soft | Muddy |
-| 不良 | Heavy | Sloppy |
-
-This ensures:
-- No mixing of Turf Soft vs Dirt Muddy
-- One-shot filtering by condition label
-- International naming consistency
-
-**Surface is always stored as a separate property**.
